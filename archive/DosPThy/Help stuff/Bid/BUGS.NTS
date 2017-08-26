@@ -1,0 +1,1 @@
+1. Programs should clear the keyboard queue when they start.2. Description of BIDr should be briefer3. Description of DMV should call it DMV4. Improve the cursor algorithm. Currently slow start, then good.5. Remove "or insert" from curvedraw (and Bidr?)6. With insert on (in bidr) shift does not make marks! Eithereliminate insert entirely or recheck it after each mark.
